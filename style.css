@@ -2,21 +2,18 @@ html, body {
     height: 100%;
 }
 
-body{
+.containerDos{
     display:flex;
     align-items: center;
     justify-content: center;
-    background-color: black;
+    background-color: rgba(00, 00, 00, 0.75);
+    opacity: 1;
+    height: 100%;
 }
 
 #dos {
-    width: 80vw;
-    height: 80vh;
+    width: 100vw;
+    height: 100vh;
 }
 
-@media only screen and (max-width: 768px) {
-    #dos {
-        width: 100vw;
-        height: 100vh;
-    } 
-}
+
