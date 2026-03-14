@@ -7,7 +7,7 @@ Activation Secrète : L'easter egg est activé par une interaction spécifique s
 Version Shareware : La version gratuite et légale de Doom pour découvrir ou redécouvrir ce classique.
 
 ## Démo en ligne
-Essayez directement sur mon [portfolio](https://audiardjerome.fr) et tentez de découvrir l'easter egg pour une surprise rétro !
+Essayez directement sur mon [portfolio](https://the-real-dje33.github.io/doom/) et tentez de découvrir l'easter egg pour une surprise rétro !
 
 ## Remerciements
 Un grand merci aux créateurs de [Doom](https://slayersclub.bethesda.net/fr-FR), John Carmack et John Romero, pour avoir créé ce jeu emblématique qui a marqué l'histoire des jeux vidéo.<br>
